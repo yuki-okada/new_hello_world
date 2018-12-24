@@ -1,0 +1,4 @@
+﻿  practice7.2.3.c
+d:\new_project\chapter7\practice7.2.3\practice7.2.3\practice7.2.3.c(25): warning C4013: 関数 'gets' は定義されていません。int 型の値を返す外部関数と見なします。
+d:\new_project\chapter7\practice7.2.3\practice7.2.3\practice7.2.3.c(43): warning C4098: 'display': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+  practice7.2.3.vcxproj -> D:\new_project\chapter7\practice7.2.3\Debug\practice7.2.3.exe
