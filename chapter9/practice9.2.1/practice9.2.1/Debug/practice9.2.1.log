@@ -1,0 +1,7 @@
+﻿  practice9.2.1.c
+d:\new_project\chapter9\practice9.2.1\practice9.2.1\practice9.2.1.c(18): warning C4013: 関数 'exist' は定義されていません。int 型の値を返す外部関数と見なします。
+d:\new_project\chapter9\practice9.2.1\practice9.2.1\practice9.2.1.c(21): warning C4047: '関数': 間接参照のレベルが 'FILE **' と 'char *' で異なっています。
+d:\new_project\chapter9\practice9.2.1\practice9.2.1\practice9.2.1.c(21): warning C4024: 'fopen_s': の型が 1 の仮引数および実引数と異なります。
+d:\new_project\chapter9\practice9.2.1\practice9.2.1\practice9.2.1.c(21): error C2198: 'fopen_s': 呼び出しに対する引数が少なすぎます。
+d:\new_project\chapter9\practice9.2.1\practice9.2.1\practice9.2.1.c(21): warning C4047: '==': 間接参照のレベルが 'errno_t' と 'void *' で異なっています。
+d:\new_project\chapter9\practice9.2.1\practice9.2.1\practice9.2.1.c(21): warning C4047: '=': 間接参照のレベルが 'FILE *' と 'int' で異なっています。
