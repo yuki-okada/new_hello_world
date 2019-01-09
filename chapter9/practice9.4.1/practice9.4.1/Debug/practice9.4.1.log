@@ -1,0 +1,15 @@
+﻿  practice9.4.1.c
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(49): error C2371: 'remove': 再定義されています。異なる基本型です。
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(364): note: 'remove' の宣言を確認してください
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(73): warning C4477: 'scanf_s' : 書式文字列 '%c' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'int' です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(73): note: この引数は変換指定子で使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(73): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(73): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(73): note: 不足している可変個引数 2 が書式文字列 '%c' に必要です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(73): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(77): warning C4013: 関数 'sign' は定義されていません。int 型の値を返す外部関数と見なします。
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(89): error C2198: 'remove': 呼び出しに対する引数が少なすぎます。
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(97): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(97): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(97): note: 不足している可変個引数 2 が書式文字列 '%c' に必要です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(97): note: この引数はバッファー サイズとして使用されます
