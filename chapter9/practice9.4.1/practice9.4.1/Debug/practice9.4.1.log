@@ -1,11 +1,24 @@
 ﻿  practice9.4.1.c
-d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(43): warning C4013: 関数 'gets' は定義されていません。int 型の値を返す外部関数と見なします。
-d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): warning C4477: 'fscanf_s' : 書式文字列 '%s' には、型 'unsigned int' の引数が必要ですが、可変個引数 2 は型 'char *' です
-  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): note: この引数はバッファー サイズとして使用されます
-d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): warning C4477: 'fscanf_s' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 3 は型 'unsigned long *' です
-  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): note: この引数は変換指定子で使用されます
-d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): warning C4473: 'fscanf_s': 書式文字列として渡された引数が不足しています
-  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): note: プレースホルダーとそのパラメーターには 5 の可変個引数が必要ですが、3 が指定されています。
-  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): note: 不足している可変個引数 4 が書式文字列 '%s' に必要です
-  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(111): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(61): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(61): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(61): note: 不足している可変個引数 2 が書式文字列 '%s' に必要です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(61): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(82): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(82): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(82): note: 不足している可変個引数 2 が書式文字列 '%s' に必要です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(82): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(85): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'char *' です
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(112): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(112): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(112): note: 不足している可変個引数 2 が書式文字列 '%s' に必要です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(112): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(114): warning C4477: 'printf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'int' です
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): warning C4047: '関数': 間接参照のレベルが 'FILE *const ' と 'FILE **' で異なっています。
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): warning C4024: 'fscanf_s': の型が 1 の仮引数および実引数と異なります。
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): warning C4477: 'fscanf_s' : 書式文字列 '%s' には、型 'unsigned int' の引数が必要ですが、可変個引数 2 は型 'char *' です
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): warning C4473: 'fscanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): note: プレースホルダーとそのパラメーターには 3 の可変個引数が必要ですが、2 が指定されています。
+  d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(157): note: 不足している可変個引数 3 が書式文字列 '%d' に必要です
+d:\new_project\chapter9\practice9.4.1\practice9.4.1\practice9.4.1.c(191): warning C4477: 'fprintf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 2 は型 'char *' です
   practice9.4.1.vcxproj -> D:\new_project\chapter9\practice9.4.1\Debug\practice9.4.1.exe
