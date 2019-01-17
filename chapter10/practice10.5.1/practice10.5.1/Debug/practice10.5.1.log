@@ -1,0 +1,12 @@
+﻿  practice10.5.1.c
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(21): warning C4477: 'fscanf_s' : 書式文字列 '%c' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'code *' です
+  d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(21): note: この引数は変換指定子で使用されます
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(21): warning C4473: 'fscanf_s': 書式文字列として渡された引数が不足しています
+  d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(21): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(21): note: 不足している可変個引数 2 が書式文字列 '%c' に必要です
+  d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(21): note: この引数はバッファー サイズとして使用されます
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(25): warning C4098: 'save': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(45): warning C4098: 'read': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(60): warning C4013: 関数 'prinf' は定義されていません。int 型の値を返す外部関数と見なします。
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(71): warning C4133: '関数': 'code *' と 'code *' の間で型に互換性がありません。
+d:\new_project\chapter10\practice10.5.1\practice10.5.1\practice10.5.1.c(71): error C4700: 初期化されていないローカル変数 'p_practice10_5_1' が使用されます
