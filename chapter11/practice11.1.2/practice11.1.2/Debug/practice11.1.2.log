@@ -1,0 +1,3 @@
+﻿  practice11.1.2.c
+d:\new_project\chapter11\practice11.1.2\practice11.1.2\practice11.1.2.c(13): warning C4098: 'sum_it': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+  practice11.1.2.vcxproj -> D:\new_project\chapter11\practice11.1.2\Debug\practice11.1.2.exe
