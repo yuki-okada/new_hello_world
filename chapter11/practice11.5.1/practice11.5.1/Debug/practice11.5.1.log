@@ -1,0 +1,7 @@
+﻿  practice11.5.1.c
+d:\new_project\chapter11\practice11.5.1\practice11.5.1\practice11.5.1.c(22): warning C4047: '関数': 間接参照のレベルが 'FILE **' と 'FILE *' で異なっています。
+d:\new_project\chapter11\practice11.5.1\practice11.5.1\practice11.5.1.c(22): warning C4024: 'fopen_s': の型が 1 の仮引数および実引数と異なります。
+d:\new_project\chapter11\practice11.5.1\practice11.5.1\practice11.5.1.c(29): warning C4047: '関数': 間接参照のレベルが 'FILE **' と 'FILE *' で異なっています。
+d:\new_project\chapter11\practice11.5.1\practice11.5.1\practice11.5.1.c(29): warning C4024: 'fopen_s': の型が 1 の仮引数および実引数と異なります。
+d:\new_project\chapter11\practice11.5.1\practice11.5.1\practice11.5.1.c(22): error C4700: 初期化されていないローカル変数 'p_encryption_before' が使用されます
+d:\new_project\chapter11\practice11.5.1\practice11.5.1\practice11.5.1.c(29): error C4700: 初期化されていないローカル変数 'p_encryption_after' が使用されます
