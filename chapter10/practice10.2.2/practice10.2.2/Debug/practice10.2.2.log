@@ -1,6 +1,2 @@
 ﻿  practice10.2.2.c
-d:\new_project\chapter10\practice10.2.2\practice10.2.2\practice10.2.2.c(21): warning C4047: '関数': 間接参照のレベルが 'tm *const ' と 'tm **' で異なっています。
-d:\new_project\chapter10\practice10.2.2\practice10.2.2\practice10.2.2.c(21): warning C4024: 'localtime_s': の型が 1 の仮引数および実引数と異なります。
-d:\new_project\chapter10\practice10.2.2\practice10.2.2\practice10.2.2.c(22): warning C4047: '関数': 間接参照のレベルが 'tm *const ' と 'tm **' で異なっています。
-d:\new_project\chapter10\practice10.2.2\practice10.2.2\practice10.2.2.c(22): warning C4024: 'gmtime_s': の型が 1 の仮引数および実引数と異なります。
   practice10.2.2.vcxproj -> D:\new_project\chapter10\practice10.2.2\Debug\practice10.2.2.exe

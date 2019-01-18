@@ -1,0 +1,2 @@
+﻿practice11.1.3.par1.obj : error LNK2019: 未解決の外部シンボル _getname が関数 _main で参照されました。
+D:\new_project\chapter11\practice11.1.3.par1\Debug\practice11.1.3.par1.exe : fatal error LNK1120: 1 件の未解決の外部参照

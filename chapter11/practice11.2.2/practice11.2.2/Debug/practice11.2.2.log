@@ -1,0 +1,3 @@
+﻿  practice11.2.2.c
+d:\new_project\chapter11\practice11.2.2\practice11.2.2\practice11.2.2.c(39): warning C4013: 関数 'gets' は定義されていません。int 型の値を返す外部関数と見なします。
+  practice11.2.2.vcxproj -> D:\new_project\chapter11\practice11.2.2\Debug\practice11.2.2.exe
