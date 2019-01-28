@@ -1,0 +1,6 @@
+﻿  practice12.1.2.c
+d:\new_project\chapter12\practice12.1.2\practice12.1.2\practice12.1.2.c(30): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'int' です
+d:\new_project\chapter12\practice12.1.2\practice12.1.2\practice12.1.2.c(39): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'int' です
+d:\new_project\chapter12\practice12.1.2\practice12.1.2\practice12.1.2.c(85): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'int' です
+d:\new_project\chapter12\practice12.1.2\practice12.1.2\practice12.1.2.c(51): warning C4101: 'calculation': ローカル変数は 1 度も使われていません。
+  practice12.1.2.vcxproj -> D:\new_project\chapter12\practice12.1.2\Debug\practice12.1.2.exe
